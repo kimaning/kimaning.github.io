@@ -9,18 +9,19 @@ body{
   background-color: lightgray;
 }
 h1 {
-  color: white;
-  text-align: left;
+  color: blue;
+  text-align: center;
 }
 div {
   width: 75%;
   float: right;
 }
 .something-awsome{
-  color:  Black;
+  color: white ;
+ 
 }
 #bikecollage{
-  border-radius:70%;
+  border-radius:90%;
 }
 legend	
 {text-decoration-color: blue;
